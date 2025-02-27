@@ -22,6 +22,3 @@ Features:
 
 ## OUTPUT:
 
-
- 
-      ![Image](https://github.com/user-attachments/assets/47893fca-37af-425a-a391-c8367b096000)
