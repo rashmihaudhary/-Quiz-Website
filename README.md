@@ -20,5 +20,5 @@ Features:
    -> Incoreect answers are marked in red.
    -> Users can proceed to the next question after submitting in answer.
 
-## OUTPUT:
+## OUTPUT link given below:
 https://github.com/rashmihaudhary/-Quiz-Website/issues/1#issue-2884490951
