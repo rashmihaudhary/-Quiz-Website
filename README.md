@@ -24,4 +24,4 @@ Features:
 
 
  
-      ![Image](https://github.com/user-attachments/assets/b5d356f2-1f71-4f46-8f3c-e63be53f974e)
+      https://github.com/rashmihaudhary/-Quiz-Website/issues/1#issue-2884490951
