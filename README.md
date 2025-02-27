@@ -20,4 +20,8 @@ Features:
    -> Incoreect answers are marked in red.
    -> Users can proceed to the next question after submitting in answer.
 
-   3. scoring System:
+## OUTPUT:
+
+
+ 
+      ![Image](https://github.com/user-attachments/assets/b5d356f2-1f71-4f46-8f3c-e63be53f974e)
